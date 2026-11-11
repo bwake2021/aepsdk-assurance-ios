@@ -28,7 +28,7 @@ class AssuranceUIUtil {
             }
 
             #if os(visionOS)
-            let scale = 1.0
+            let scale = 2.0
             #else
             let scale = UIScreen.main.scale
             #endif
